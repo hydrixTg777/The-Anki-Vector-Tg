@@ -26,7 +26,7 @@ Complete guide on deploying @TheAnkiVectorbot's clone on Heroku.
 
 ## New version Avaiilable on Telegram as [The-Anki-Vector-Bot](https://t.me/TheAnkiVectorbot)
 ## The-Anki-Vector-Bot is the latest
-
+j
 
 
 
